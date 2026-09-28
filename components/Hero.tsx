@@ -151,7 +151,7 @@ export default function Hero() {
           <div className="relative z-10 h-[560px] w-[420px] overflow-hidden rounded-[35px]">
 
             <Image
-              src="/images/oscar-koi.png"
+              src="/CV/images/oscar-koi.png"
               alt="Oscar KOÏ"
               fill
               priority
